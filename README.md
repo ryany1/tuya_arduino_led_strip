@@ -1,0 +1,2 @@
+# tuya_arduino_led_strip
+该项目为arduino+tuya搭建的幻彩灯带，共有两个方案实现功能
