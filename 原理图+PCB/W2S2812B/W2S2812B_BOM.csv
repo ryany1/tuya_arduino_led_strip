@@ -1,0 +1,6 @@
+"Comment","Description","Designator","Footprint","LibRef","Pins","Quantity","PartNumber","url",
+"100nf","desc","C1,C2,C3,C4,","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","libref","2","4","","",
+"WS2812B","desc","D1,D2,D3,D4,","LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","libref","4","4","","",
+"Through Hole Items ",
+"Conn_01x03","desc","J1,","PinHeader_1x03_P2.54mm_Vertical","libref","3","1","","",
+"NC/0R","desc","R1,R2,R3,R4,R4,R4,R4,R4,R4,R4,R11,R12,","焊接连接电阻","libref","2","12","","",
