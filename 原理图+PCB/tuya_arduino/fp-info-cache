@@ -1,4 +1,4 @@
-19289500059984085
+19295994622671753
 0WJQ
 BGA196C80P14X14_1200X1200X161N
 
@@ -307,6 +307,13 @@ openmv_camera_brd
 0
 0
 0
+0WJQ
+焊接连接电阻
+
+
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83362,3 +83369,24 @@ tuya_cbu
 0
 21
 21
+自用工程封装库
+Arduino_nano_base
+
+
+0
+30
+30
+自用工程封装库
+button_smd
+
+
+0
+2
+2
+自用工程封装库
+tuya_cbu
+
+
+0
+21
+20
